@@ -68,3 +68,23 @@ Child mortality is a key public health metric. This project explores predictive 
 - `pandas`, `numpy`, `scikit-learn`, `xgboost`
 - `matplotlib`, `seaborn`, `imblearn`, `shap`
 
+## 🚀 Usage
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/SoumikDash7/child-mortality-prediction.git
+
+# Move into the project directory
+cd child-mortality-prediction
+
+# (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+# Install the dependencies
+pip install -r requirements.txt
+
+# Run the Jupyter Notebook
+jupyter notebook M_Sc_Classification_Project(2)(5).ipynb
