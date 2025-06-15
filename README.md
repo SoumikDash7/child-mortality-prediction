@@ -52,6 +52,10 @@ Child mortality is a key public health metric. This project explores predictive 
 - **XGBoost** was the best-performing model with 93% accuracy and the highest AUC.
 - Top predictors: number of children, mother's age, birth spacing, education, and wealth.
 - Ensemble models outperformed simpler classifiers in both accuracy and recall.
+- ### 📈 ROC Curve Comparison
+
+<img src="roc_curve.png" alt="ROC Curve for All Models" width="700"/>
+
 
 ---
 
