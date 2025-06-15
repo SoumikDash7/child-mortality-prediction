@@ -1,3 +1,7 @@
+![AUC](https://img.shields.io/badge/AUC-0.76-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-yellow)
+#![License](https://img.shields.io/badge/license-MIT-green)
+
 # child-mortality-prediction
 A machine learning project to predict child mortality in India using NFHS data
 
